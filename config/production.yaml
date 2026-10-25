@@ -1,0 +1,30 @@
+video:
+  width: 1920
+  height: 1080
+  fps: 30
+  codec: libx264
+  preset: medium
+  crf: 18
+  pixel_format: yuv420p
+audio:
+  codec: aac
+  bitrate: 192k
+  sample_rate: 48000
+logo:
+  position: top_right
+  width: 210
+  margin: 54
+  opacity: 0.92
+subtitles:
+  max_lines: 2
+  max_chars_per_line: 42
+  bottom_margin: 86
+  font_size: 46
+  reading_speed_cps: 19
+visuals:
+  seconds_per_asset: 7
+  ken_burns: true
+  archive_label: ARCHIVE
+qc:
+  max_retries: 2
+  black_frame_ratio_limit: 0.02

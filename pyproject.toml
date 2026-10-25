@@ -1,0 +1,9 @@
+[project]
+name = "midnet-news-video-producer"
+version = "1.0.0"
+description = "AI-agent-friendly MidNet News video production pipeline"
+requires-python = ">=3.10"
+dependencies = ["Pillow>=10", "PyYAML>=6", "numpy>=1.24"]
+
+[project.scripts]
+midnet-produce = "midnet.cli:main"

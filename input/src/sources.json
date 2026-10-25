@@ -1,0 +1,4 @@
+{
+  "assets": [],
+  "instructions": "Add records like {filename, source, license, event_date, notes}."
+}

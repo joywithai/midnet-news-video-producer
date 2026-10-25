@@ -1,0 +1,13 @@
+name: MidNet News
+tagline: Truth First. News That Matters.
+colors:
+  navy: "#071A33"
+  navy_light: "#12365A"
+  red: "#D71920"
+  white: "#FFFFFF"
+  silver: "#C9D2DC"
+typography:
+  preferred_headline: "Arial Bold"
+  preferred_body: "Arial"
+  preferred_subtitle: "Arial Bold"
+  fallback_linux: "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
